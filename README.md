@@ -20,5 +20,5 @@ The program is implemented in C++. The program allows the user to select a choic
           7. Predecessor
           8. Depth of a node
           9. Traversals (Inorder, Preorder, Postorder)
-          10. Delete all nodes
+         10. Delete all nodes
 
