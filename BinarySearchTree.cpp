@@ -1,8 +1,5 @@
 /*
  * Name: Naveen Mukundan Ravindran 
- * WSU: F496M359
- * Advanced Analysis of Algorithms
- * Programming Assignment
  * Description: This program can add nodes to Binary Search Tree, delete nodes to Binary Search tree and do more
 operations. The program can take both positive and negative values as inputs. This program have count for all the 
 nodes (how many times they occur in the tree). The program terminates when there are no successor or
